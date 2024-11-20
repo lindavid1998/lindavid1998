@@ -1,8 +1,16 @@
 ## Hi there 👋 I'm David!
+I am a full stack web developer with React/PostgreSQL/Express.js experience. I come from an operations background with 3+ YoE as a process engineer where I sustained and scaled up high volume medical device manufacturing lines. Through that experience, I’ve developed a strong foundation in operational efficiency, problem-solving under high-stakes conditions, and implementing scalable solutions with strategic thinking.
 
-I studied chemical engineering for my undergrad but decided to pursue software engineering in 2022. I coded almost every day while working full-time as a process engineer in biotech. Since then, I've made various web projects and am currently enrolled in Georgia Tech's OMSCS program, specializing in Machine Learning.
+Now, I apply those same principles to software engineering—building efficient, reliable, and scalable applications.
 
-In my free time, I like playing soccer, snowboarding, traveling, and riding my motorcycle.
+I'm passionate about learning and exploring new ideas, with a particular interest in:
+- Health tech
+- Computer vision / autonomous driving
+- Sports/esports/motorsport
+- Travel tech 
+- Green/renewable energy 
+
+Outside of coding, I love playing soccer, snowboarding, and riding my motorcycle!
 <!-- <div>
 <img src="https://komarev.com/ghpvc/?username=lindavid1998&color=blue&style=flat-square&base=1400"/> <span><img src="https://img.shields.io/github/followers/lindavid1998?label=Followers&logo=Github"/></span>
 </div> -->
